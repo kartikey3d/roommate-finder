@@ -498,11 +498,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Background check integration
 - [ ] In-app video calls
 
-## 👥 Authors
+##Author
 
-- Your Name - [@yourusername](https://github.com/yourusername)
+- Your Name - [@kartikey3d](https://github.com/kartikey3d)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - FastAPI for the amazing framework
 - SQLAlchemy for robust ORM
