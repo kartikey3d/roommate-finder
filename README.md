@@ -498,7 +498,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Background check integration
 - [ ] In-app video calls
 
-##Author
+## Author
 
  [@kartikey3d](https://github.com/kartikey3d)
 
