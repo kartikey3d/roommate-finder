@@ -500,7 +500,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##Author
 
-- Your Name - [@kartikey3d](https://github.com/kartikey3d)
+ [@kartikey3d](https://github.com/kartikey3d)
 
 ## Acknowledgments
 
